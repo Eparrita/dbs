@@ -82,6 +82,10 @@ ul.menu li a:active { background: #fc9c02; }
 
 .about { background: url(../images/about-section.png); background-position: top left; background-repeat: no-repeat; height: 700px; }
 
-.about_content { color: #313139; width: 650px; margin: 0 auto; z-index: 1; }
+.about_content { background-color: rgba(255, 255, 255, 0.85); color: #313139; z-index: 1; }
 
-.about_content h1 { font-size: 40pt; margin: 0; width: 100%; }
+.about_content h1 { font-size: 40pt; width: 100%; }
+
+.services { background: #F7F7F7; min-height: 98vh; }
+
+.crop { height: 400px; }
