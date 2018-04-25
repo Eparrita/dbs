@@ -56,8 +56,6 @@ pre code { display: block; line-height: 1.75em; padding: 1em 1.5em; overflow-x: 
 
 header { width: 100%; height: 5em; }
 
-.main-menu { position: relative; overflow: hidden; }
-
 .logo { width: 9.375em; }
 
 ul.menu, .open { width: calc(100% - 9.375em); display: -webkit-box; display: -ms-flexbox; display: flex; -ms-flex-wrap: nowrap; flex-wrap: nowrap; -webkit-box-pack: end; -ms-flex-pack: end; justify-content: flex-end; }
